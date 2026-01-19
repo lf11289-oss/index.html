@@ -1,1 +1,10 @@
+body{
+  background-color:rgba(0, 128, 0, 0.959);
+}
+h1{
+  color:darkred;
+}
 
+h2{color:darkred;}
+p{color: darkred;}
+footer{color:darkred}
