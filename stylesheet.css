@@ -1,11 +1,24 @@
-body{
-  background-color:rgba(0, 128, 0, 0.959);
+body {
+  background-color: rgba(0, 128, 0, 0.959);
 }
-h1{
-  color:darkred;
-  font-family: bangers
+h1 {
+  color: darkred;
+  font-family: 'Oxygen';
+  font-size: 50px;
 }
 
-h2{color:darkred;}
-p{color: darkred;}
-footer{color:darkred}
+h2 {
+  color: darkred;
+  font-family: 'Oxygen';
+  font-size: 40px;
+}
+p {
+  color: darkred;
+  font-family: 'Oxygen';
+  font-size: 30px;
+}
+footer {
+  color: darkred;
+  font-family: 'Oxygen';
+  font-size: 20px
+}
